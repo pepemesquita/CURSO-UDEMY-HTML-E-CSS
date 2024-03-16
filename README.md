@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Para utilizar este projeto, basta clonar o repositório e abrir os arquivos HTML em um navegador web. Certifique-se de manter a estrutura de pastas intacta para garantir o funcionamento correto do site.
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/pepemesquita/UNES_Universidade.git
 ```
 E depois entre no VScode e baixe a extensão, "live server" para editar e conseguir ver em tempo real!
 
