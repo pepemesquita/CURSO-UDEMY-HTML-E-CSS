@@ -1,6 +1,7 @@
 # Universidade Fictícia - UNES
 
 Este é um projeto desenvolvido durante o curso de HTML, CSS e outros frameworks de front-end oferecido pela plataforma Udemy. O objetivo do projeto é criar um site simples para uma universidade fictícia, contendo páginas para apresentação, informações sobre a universidade, e uma página de contato bem simples.
+https://prod.liveshare.vsengsaas.visualstudio.com/join?1417C9739FE35110AFBC61CA7084A5E716F5
 
 ## Conteúdo
 
@@ -20,7 +21,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML5
 - CSS3
-- Frameworks de Front-End (utilizados conforme o curso)
 
 ## Como Usar
 
