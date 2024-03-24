@@ -1,6 +1,8 @@
 # Universidade Fictícia - UNES
 
-Este é um projeto desenvolvido durante o curso de HTML, CSS e outros frameworks de front-end oferecido pela plataforma Udemy. O objetivo do projeto é criar um site simples para uma universidade fictícia, contendo páginas para apresentação, informações sobre a universidade, e uma página de contato bem simples. Para acessar esse projeto clique no link abaixo.
+Este é um projeto desenvolvido durante o curso de HTML, CSS e outros frameworks de front-end oferecido pela plataforma Udemy. O objetivo do projeto é criar um site simples para uma universidade fictícia, contendo páginas para apresentação, informações sobre a universidade, e uma página de contato bem simples. Para acessar esse projeto clique no link.
+
+
 https://unes-universidade-blue.vercel.app/index.html
 
 ![Captura de tela 2024-03-15 220157](https://github.com/pepemesquita/UNES_Universidade/assets/81587883/559cb58d-8972-4ad0-b86b-70e8111d303e)
